@@ -60,17 +60,17 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/j3gad335h">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j3gad335h&langs_count=6&theme=gruvbox&layout=compact&hide_border=true&hide=jupyter%20notebook" alt="Jegadeesh :: Top Langs" /></a>
+          <a href="https://github.com/vijayKL94">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayKL94&langs_count=6&theme=gruvbox&layout=compact&hide_border=true&hide=jupyter%20notebook" alt="Vijay :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/j3gad335h/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=j3gad335h&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=j3gad335h&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/vijayKL94/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vijayKL94&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayKL94&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
   </div>    
 
 
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j3gad335h&hide=jupyter%20notebook)](https://github.com/j3gad335h)-->
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayKL94&hide=jupyter%20notebook)](https://github.com/vijayKL94)-->
