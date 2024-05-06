@@ -36,7 +36,7 @@
 
 🧪 Frameworks:
 
-  ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![FASTAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![Lumen](https://img.shields.io/badge/Lumen-ff5954?style=for-the-badge&logo=selenium&logoColor=white) ![Slim](https://img.shields.io/badge/Slim-719E40?style=for-the-badge&logo=apachemaven&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+  ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![FASTAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![Lumen](https://img.shields.io/badge/Lumen-ff5954?style=for-the-badge&logo=Lumen&logoColor=white) ![Slim](https://img.shields.io/badge/Slim-719E40?style=for-the-badge&logo=Slim&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
   
  
  💾 Databases:
