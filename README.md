@@ -1,14 +1,9 @@
 
-<!---
-j3gad335h/j3gad335h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <div align="center">
-  <h1 align="center">Hi There<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Jegadeesh</h1>
+  <h1 align="center">Hi There, I'm Vijay</h1>
 </div>
 <p align="center">
- <a href="https://github.com/j3gad335h">
+ <a href="https://github.com/vijayKL94">
 		 <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Laravel%20|%20Python%20|%20React%20JS;Always%20learning%20new%20things&center=true&width=450&height=45">
    </a>
 </p>
@@ -18,8 +13,7 @@ You can click the Preview link to take a look at your changes.
   📝 I have a strong interest in Web Development and Automation.
   🌱 I am currently learning NextJs Framework
   🔭 Working on developing fintech applications.
-  🌟 Main languages: PHP,Python,ReactJS
-  
+  🌟 Main languages: PHP, Python, ReactJS
  </pre>
 <hr>
 
@@ -30,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 💬 Connect with me on:</br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jegadeeshn/) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ntjegadeesh@gmail.com) [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/jega.deesh.547)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-kl-4984ba26b/) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kennedy1.vijay@gmail.com)
   
   
 
@@ -42,23 +36,20 @@ You can click the Preview link to take a look at your changes.
 
 🧪 Frameworks:
 
-  ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![FASTAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![CUCUMBER](https://img.shields.io/badge/CUCUMBER-2ea44f?style=for-the-badge)
+  ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![FASTAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![Lumen](https://img.shields.io/badge/Lumen-ff5954?style=for-the-badge&logo=selenium&logoColor=white) ![Slim](https://img.shields.io/badge/Slim-719E40?style=for-the-badge&logo=apachemaven&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
   
- 📊 Analytics:
- 
- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
  
  💾 Databases:
  
- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
  
  📈 Visualization:
  
- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+ ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
  
  🎛️ Application and Tools:
  
- ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 📲 Project Management:
 
