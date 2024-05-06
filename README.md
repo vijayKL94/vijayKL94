@@ -54,6 +54,7 @@
 📲 Project Management:
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![DoneDone](https://img.shields.io/badge/DoneDone-%23ED8B00.svg?style=for-the-badge&logo=DoneDone&logoColor=white)
 
   <div>
     <h2 align="center"> 📊 Github stats </h2>
