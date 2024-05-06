@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi There<img width="35" src="[https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif](https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif)">, I'm Vijay</h1>
+  <h1 align="center">Hi There, I'm Vijay</h1>
 </div>
 <p align="center">
  <a href="https://github.com/vijayKL94">
