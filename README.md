@@ -57,6 +57,7 @@
 ![DoneDone](https://img.shields.io/badge/DoneDone-%23ED8B00.svg?style=for-the-badge&logo=DoneDone&logoColor=white)
 
 🛒 E-Commerce Platforms:
+
 ![Shopify](https://img.shields.io/badge/Shopify-%2395bf47.svg?style=for-the-badge&logo=Shopify&logoColor=white)
 
   <div>
